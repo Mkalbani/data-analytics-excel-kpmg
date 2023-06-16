@@ -12,3 +12,8 @@ The client provided KPMG with 3 datasets:
 Customer Demographic 
 Customer Addresses
 Transactions data in the past 3 months
+
+Perform the following the tasks:
+1. Data Quality Assesment
+2. Data Insight
+3. Data Presentation
