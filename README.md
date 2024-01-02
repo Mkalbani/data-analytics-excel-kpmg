@@ -1,3 +1,6 @@
+# Context
+The KPMG Data Analytics Virtual Internship, hosted by Forage, provided me with an opportunity to utilize my analytical capabilities as a Data Analyst for Sprocket Central Pty Ltd.
+
 # data-analytics-excel-kpmg
 Sprocket Central Pty Ltd , a medium size bikes & cycling accessories organisation, has approached Tony Smith (Partner) in KPMG’s Lighthouse & Innovation Team. Sprocket Central Pty Ltd  is keen to learn more about KPMG’s expertise in its Analytics, Information & Modelling team. 
 
@@ -17,3 +20,5 @@ Perform the following the tasks:
 1. Data Quality Assesment
 2. Data Insight
 3. Data Presentation
+
+# worked succesfully executed in the docs and ppt files. Please click to see the result
